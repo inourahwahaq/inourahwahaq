@@ -10,6 +10,7 @@ I'm a data analyst. I turn raw data into clear findings and business recommendat
 
 | Project | Main finding | Tools |
 | --- | --- | --- |
+| [Delivery and Customer Ratings](https://github.com/inourahwahaq/olist-delivery-impact) | A late order is rated about 2 points lower out of 5, after controls | SQL, Python, Tableau |
 | [Saudi Court Sessions](https://github.com/inourahwahaq/saudi-court-sessions-sql) | Courts held 10.7K sessions every working day from January to September 2026 | SQL, Tableau |
 | [Saudi Real Estate Deals](https://github.com/inourahwahaq/saudi-real-estate-analysis) | Property deals fell 18% year on year in Q2 2026 | Python, Excel, Tableau |
 | [Global Company Layoffs](https://github.com/inourahwahaq/global-layoffs-monitor) | Reviewing the largest job figures cut reported job growth from 8.4% to 2.6% | Python, Excel, Tableau |
